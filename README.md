@@ -30,7 +30,7 @@ The game ends when the player runs out of lives due to missed targets.
 ```text
 Aim_Trainer/
 │
-├── aim_trainer.py      # Main game file
+├── aim-trainer.py      # Main game file
 ```
 
 ---
@@ -93,7 +93,7 @@ pip install pygame
 
 ## ▶️ Running the Game
 ```bash
-python aim_trainer.py
+python aim-trainer.py
 ```
 
 ---
